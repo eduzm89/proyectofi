@@ -1,0 +1,29 @@
+body{
+	background:#AED6F1 ;
+}
+
+p{
+  box-shadow: 2px 2px 35px black;
+  font-family: Arial;
+}
+p{
+	text-decoration: underline;
+}
+h1{
+	font-family: Bahnschrift SemiBold;
+	color: #1A5276 ;
+}
+h2{
+	font-family: Bahnschrift SemiBold;
+	color: #1A5276 ;
+
+}
+h4{
+	font-family: Arial Black;
+	font-size: 20px;
+}
+hr{
+	height: 10px;
+	width: 50%;
+	background-color: white;
+}
